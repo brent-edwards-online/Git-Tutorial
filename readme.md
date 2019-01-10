@@ -1,19 +1,9 @@
 # Git Tutorial
 
-## Commit 1
+## Master Commit A
 
-## Commit 2
+## Master Commit B
 
-## Commit 3
+## Master Commit C
 
-## Commit 4
-
-## Commit 5
-
-## Master Commit 1
-
-## Master Commit 2
-
-## Master Commit 3
-
-## Master Commit 4
+## Master Commit D
